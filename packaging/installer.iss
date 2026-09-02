@@ -1,6 +1,6 @@
 ; Inno Setup — SSHDeck. Signed single-file installer, compiled in CI.
 #define AppName "SSHDeck"
-#define AppVersion "1.4.3"
+#define AppVersion "1.4.4"
 
 [Setup]
 AppMutex=QuickOpen.SSHDeck
@@ -42,7 +42,7 @@ WizardSmallImageFile=branding\wizard-small.bmp
 AppCopyright=Apache-2.0. 100%% AI-built, published on QuickOpen (quickopen.ai).
 VersionInfoCompany=QuickOpen
 VersionInfoProductName=SSHDeck
-VersionInfoVersion=1.4.3.0
+VersionInfoVersion=1.4.4.0
 PrivilegesRequired=lowest
 PrivilegesRequiredOverridesAllowed=dialog
 ArchitecturesInstallIn64BitMode=x64compatible
